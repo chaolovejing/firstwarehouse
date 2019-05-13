@@ -1,4 +1,4 @@
 git some command
 git version
 git establish
-git dev fast
+git war get prop
