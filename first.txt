@@ -1,0 +1,3 @@
+git some command
+git version
+git establish
